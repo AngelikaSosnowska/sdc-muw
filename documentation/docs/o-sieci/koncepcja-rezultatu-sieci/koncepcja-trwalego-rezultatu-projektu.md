@@ -6,8 +6,8 @@ sidebar_label: Koncepcja rezultatu
 keywords: [System zapewniania dostępności cyfrowej]
 tags: [System zapewniania dostępności cyfrowej]  
 opracowanie: Stefan Wajda
-data_zgłoszenia: 5 lipca 2026 r.
-data_aktualizacji: 5 lipca 2026 r.
+data_zgloszenia: 5 lipca 2026 r.
+ostatnia_aktualizacja: 5 lipca 2026 r.
 ---
 
 **Wersja 2.0**
